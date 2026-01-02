@@ -89,3 +89,5 @@ footer {
   background: #11131a;
   margin-top: 40px;
 }
+/* Logo */ 
+.logo-wrap { text-align: center; margin-bottom: 10px; } .logo { width: 160px; height: auto; } /* Beer images */ .beer-image { width: 100%; height: auto; border-radius: 8px; margin-bottom: 12px; border: 1px solid #2a2d3a; }
